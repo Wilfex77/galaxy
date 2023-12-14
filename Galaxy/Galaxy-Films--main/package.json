@@ -1,0 +1,25 @@
+{
+  "name": "galaxy-films",
+  "version": "1.0.0",
+  "description": "Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirumba/Galaxy-Films-.git"
+  },
+  "keywords": [
+    "javascript",
+    "Html",
+    "CSS",
+    "Bootstrap"
+  ],
+  "author": "Simon Maina Sirumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirumba/Galaxy-Films-/issues"
+  },
+  "homepage": "https://github.com/Sirumba/Galaxy-Films-#readme"
+}
